@@ -7,7 +7,7 @@ new Swiper('.second-banner .swiper',{
   loop:true, //무한재생
 
   slidesPerView:5,  //한번에 보여주는 slide개수
-  spaceBetween:5,   //slide 간격 (px)
+  spaceBetween:300,   //slide 간격 (px)
   centeredSlides:true,
   
 
