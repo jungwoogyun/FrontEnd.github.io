@@ -32,10 +32,12 @@
  
   display:flex;
   justify-content: center;
- 
+  transition:.4s;
 
 }
-
+.banner-toggle>.inner>.left>a:hover{
+  transform:scale(1.2,1.2);
+}
 .banner-toggle>.inner>.left>a>i {
   display:block;
   color:white;

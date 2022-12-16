@@ -19,7 +19,12 @@ body{
 header>.inner>.gnb-top>.header-banner,
 header>.inner>.gnb-second,
 header>.inner>.gnb,
-.second-banner>.inner
+.second-banner>.inner,
+footer>.inner>*
 {
   padding:0 150px;
 }
+
+section{}
+
+ 
