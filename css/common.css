@@ -20,6 +20,7 @@ header>.inner>.gnb-top>.header-banner,
 header>.inner>.gnb-second,
 header>.inner>.gnb,
 .second-banner>.inner,
+.banner-toggle>.inner,
 footer>.inner>*
 {
   padding:0 150px;
